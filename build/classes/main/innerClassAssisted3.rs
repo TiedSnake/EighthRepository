@@ -1,0 +1,3 @@
+main.innerClassAssisted3
+main.AnonymousInnerClass
+main.innerClassAssisted3$1
